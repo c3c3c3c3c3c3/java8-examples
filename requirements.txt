@@ -4,3 +4,5 @@ requests==2.19.1 # Vulnerable (e.g., CVE-2023-32681 for older versions)
 PyYAML==3.13 # Vulnerable (e.g., CVE-2017-18342) 
 Flask==0.12.2 # Vulnerable (e.g., CVE-2018-1000656) 
 urllib3==1.22 # Vulnerable (e.g., CVE-2021-33503)
+flatbuffers==1.12
+grpcio==1.32.0
